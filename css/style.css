@@ -51,6 +51,9 @@ ul{
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.txd a{
+    text-decoration: none;
+    }
 
 .cta a{
     color: rgb(255, 0, 0);
